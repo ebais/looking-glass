@@ -13,3 +13,4 @@ small view of their networks.
   * [M Networks](https://mnetworks.org/) - [Looking Glass](https://lg.mnetworks.org/)
   * [Anexia](https://www.anexia-it.com/) - [Looking Glass](https://bgp.anexia-it.net/)
   * [Launtel](https://launtel.net.au) - [Looking Glass](https://lg.launtel.net.au)
+  * [A2B Internet](https://www.a2b-internet.com) - [Looking Glass](https://lg.a2b-internet.com)
